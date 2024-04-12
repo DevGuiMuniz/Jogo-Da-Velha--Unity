@@ -28,7 +28,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/guimuniiz/"><img style="border-radius: 50%;" src="https://github.com/DevGuiMuniz/Jogo-Da-Velha-Unity-/blob/main/muniz.jpeg" width="200px;" alt="FotoMuniz"/><br><sub><b>Guilherme Muniz</b></sub></a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/guimuniiz/"><img style="border-radius: 50%;" src="https://github.com/DevGuiMuniz/Jogo-Da-Velha-Unity/blob/main/muniz.jpeg" width="200px;" alt="FotoMuniz"/><br><sub><b>Guilherme Muniz</b></sub></a></td>
     </tr>
   </table>
 </div>
