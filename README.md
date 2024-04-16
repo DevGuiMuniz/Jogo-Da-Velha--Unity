@@ -9,7 +9,7 @@
 <p>O jogo foi feito com a linguagem de programação em Csharp(C#). Com a ajuda do unity trazendo a parte grafica do jogo</p>
 
 <p align="center">
-<img src="https://github.com/DevGuiMuniz/Jogo-Da-Velha-Unity-/blob/main/jogoDaVelhaIMG.png" alt="Img-JogoDaVelha" border="0"></a>
+<img src="https://github.com/DevGuiMuniz/Jogo-Da-Velha--Unity/blob/main/JogoDaVelhaOficial.png" alt="Img-JogoDaVelha" border="0"></a>
 </p>
 
 ## 🛠 Instalação
